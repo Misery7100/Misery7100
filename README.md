@@ -1,4 +1,4 @@
-# Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi friend!
 
 I have been developing and researching in the field of Data Science and Machine Learning for more than two and a half years. Started freelancing on Upwork and later, after reaching Top Rated Plus status, began working directly with clients. I have experience in both project work and long-term cooperation, so I'm ready to take on something interesting and new. In addition, I have experience in managing a small development team.
 Regarding working cases, I developed and deployed various machine learning models (most often recommender systems and scoring models), designed and deployed APIs (Flask, Django), I have extensive experience in working with cloud services (GCP, AWS).
