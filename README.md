@@ -8,4 +8,5 @@ In addition, I am engaged in numerical modeling of the interaction of light with
 I'll be glad to work together :)
 
 [![LinkedIn](https://img.shields.io/badge/Linked%20In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lev-litvinov/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c91e8f192e4de5e2)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](malito:misery7100@gmail.com)
