@@ -7,9 +7,14 @@ In addition, I am engaged in numerical modeling of the interaction of light with
 
 I'll be glad to work together :)
 
-<!-- <a href="https://www.upwork.com/freelancers/~01c91e8f192e4de5e2">
-  <img src="./imgs/upwork.svg" alt="Upwork Profile" width="32" height="32">
-</a> -->
+<!-- <p>
+  <a href="malito:misery7100@gmail.com">
+    <img src="./imgs/gmail.svg" alt="Gmail" width="32" height="32">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c91e8f192e4de5e2">
+    <img src="./imgs/upwork.svg" alt="Upwork" width="32" height="32">
+  </a>
+</p> -->
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](malito:misery7100@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c91e8f192e4de5e2)
