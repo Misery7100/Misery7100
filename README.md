@@ -10,4 +10,3 @@ I'll be glad to work together :)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](malito:misery7100@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c91e8f192e4de5e2)
 [![LinkedIn](https://img.shields.io/badge/Linked%20In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lev-litvinov/)
-
