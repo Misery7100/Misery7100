@@ -1,10 +1,8 @@
 # Welcome!
 
-My name is Lev. I have been developing and researching in the field of Data Science and Machine Learning for 3+ years. I have a big experience in both project work and long-term cooperation, so ready to take on something interesting and new. Regarding working cases, I developed and deployed various machine learning models (most often recommender systems and scoring models), designed and deployed APIs (Flask, Django), I have extensive experience in working with cloud services (GCP, AWS).
+As a highly experienced Data Scientist and Machine Learning Engineer with 3+ years of experience in both project work and long-term collaborations, I am well-equipped to tackle new and exciting challenges. My expertise includes the development and deployment of various machine learning models, such as recommender systems and scoring models, as well as the design and deployment of APIs using frameworks like Flask and Django. Additionally, I have a strong background in working with cloud services such as GCP and AWS.
 
-In addition, I am engaged in numerical modeling of the interaction of light with matter, in particular, high-intensity laser radiation with nanostructured targets in the plasma phase.
-
-I will be glad to work together
+In addition to my work in Data Science and Machine Learning, I am also engaged in numerical modeling of the interaction of light with matter, specifically high-intensity laser radiation with nanostructured targets in the plasma phase. I am excited to collaborate and bring my skills and experience to new projects.
 
 <!-- <p>
   <a href="malito:misery7100@gmail.com">
