@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://dakko.ai">
-        <img width="50%" src="imgs/header_space_rnd.png"/>
+        <img width="80%" src="imgs/header_space_rnd.png"/>
     </a>
 </p>
 <p align="center">
