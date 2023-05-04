@@ -1,12 +1,12 @@
-<div class="container vertical-horizontal">
+<p align="center">
     <a href="https://dakko.ai">
-      <img align="right" width="50%" src="imgs/header4.jpg"/>
+        <img width="50%" src="imgs/header_space_rnd.png"/>
     </a>
-  <p align="center">
-    <br><br>
+</p>
+<p align="center">
+    <br>
     Data Scientist and Backend Developer with 3+ years of experience. 
     Fan of endless improvements to data and ML pipelines in GCP and AWS. 
-    <br><br> 
+    <br>
     Building Tech Magic at <a href="https://dakko.ai">Dakko</a> ♡
-  </p>
- </div>
+</p>
