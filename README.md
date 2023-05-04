@@ -5,7 +5,8 @@
 </p>
 <p align="center">
     <br>
-    Data Scientist and Backend Developer with 3+ years of experience. 
+    Data Scientist and Backend Developer with 3+ years of experience.
+    <br>
     Fan of endless improvements to data and ML pipelines in GCP and AWS. 
     <br>
     Building Tech Magic at <a href="https://dakko.ai">Dakko</a> ♡
