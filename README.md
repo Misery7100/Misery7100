@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-    Data Scientist and Backend Developer with 3+ years of experience.
+    Data Scientist and Backend Developer with 4+ years of experience.
     <br>
     Fan of endless improvements to data and ML pipelines in GCP and AWS. 
     <br>
